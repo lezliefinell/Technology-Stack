@@ -1,0 +1,26 @@
+{
+"name": "technology-stackmasjiesulou",
+"version": "1.0.0",
+"description": "Leveraging cutting-edge technologies such as machine learning, artificial intelligence, and cloud computing, this project ensures high performance and efficiency.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/lezliefinell/Technology-Stack.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "lezliefinell",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
